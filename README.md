@@ -59,3 +59,7 @@ Options:
   -f,--force                  Overwrite output file
   -u,--radius_in_mm           Radius is given in mm instead
 ```
+
+### Replicability
+
+Head over to the [scripts/](scripts/) folder for further instructions.
