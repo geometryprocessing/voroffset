@@ -1,5 +1,7 @@
 # Voroffset
 
+[![Build Status](https://travis-ci.com/geometryprocessing/voroffset.svg?branch=master)](https://travis-ci.com/geometryprocessing/voroffset)
+
 Discrete mesh offsetting based on half-space Voronoi diagrams and Power diagrams.
 
 ### Compilation
