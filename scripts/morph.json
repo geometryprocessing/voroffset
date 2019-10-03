@@ -1,0 +1,60 @@
+{
+    "views": [
+        {
+            "type": "mesh_only",
+            "width": 1600,
+            "height": 1600,
+            "transparent_bg": true,
+            "background": "n",
+            "mesh": "morph_dexelized.obj",
+            "wire_frame": false,
+            "color": "gray",
+            "name": "morph_dexelized.png"
+        },
+        {
+            "type": "mesh_only",
+            "width": 1600,
+            "height": 1600,
+            "transparent_bg": true,
+            "background": "n",
+
+            "mesh": "morph_erosion.obj",
+            "wire_frame": false,
+            "color": "gray",
+            "name": "morph_erosion.png"
+        },
+        {
+            "type": "mesh_only",
+            "width": 1600,
+            "height": 1600,
+            "transparent_bg": true,
+            "background": "n",
+            "mesh": "morph_dilation.obj",
+            "wire_frame": false,
+            "color": "gray",
+            "name": "morph_dilation.png"
+        },
+        {
+            "type": "mesh_only",
+            "width": 1600,
+            "height": 1600,
+            "transparent_bg": true,
+            "background": "n",
+            "mesh": "morph_opening.obj",
+            "wire_frame": false,
+            "color": "gray",
+            "name": "morph_opening.png"
+        },
+        {
+            "type": "mesh_only",
+            "width": 1600,
+            "height": 1600,
+            "transparent_bg": true,
+            "background": "n",
+            "mesh": "morph_closing.obj",
+            "wire_frame": false,
+            "color": "gray",
+            "name": "morph_closing.png"
+        }
+    ]
+}
