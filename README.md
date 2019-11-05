@@ -11,7 +11,8 @@ Dependencies are downloaded automatically by CMake at configuration time. To com
 ```bash
 mkdir build
 cd build
-cmake -j8
+cmake ..
+make -j8
 ```
 
 ### Running the code
